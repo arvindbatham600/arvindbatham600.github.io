@@ -27,7 +27,7 @@ nav ul li {
 }
 .img-btn {
   display: inline-block;
-  border-radius: px;
+  /* border-radius: px; */
 }
 .img-btn > img{ 
   width: 25px;
